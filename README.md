@@ -1,5 +1,5 @@
-# Doge Unblocker V4
-Doge Unblocker is a very powerful, ultra-fast web proxy designed for customization, security, and anonymity.
+# KenCarson Unblocker V4
+KenCarson Unblocker is a very powerful, ultra-fast web proxy designed for customization, security, and anonymity.
 ## Features:
 - Advanced Tab Cloaking
 - Advanced About:Blank Cloaking (prevents site from showing on browser history)
